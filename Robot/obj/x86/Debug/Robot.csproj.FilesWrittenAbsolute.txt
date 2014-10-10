@@ -1,0 +1,5 @@
+/Users/user/Documents/csharp_projects/Robot/Robot/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/user/Documents/csharp_projects/Robot/Robot/bin/Debug/Robot.exe.mdb
+/Users/user/Documents/csharp_projects/Robot/Robot/bin/Debug/Robot.exe
+/Users/user/Documents/csharp_projects/Robot/Robot/obj/x86/Debug/Robot.exe
+/Users/user/Documents/csharp_projects/Robot/Robot/obj/x86/Debug/Robot.exe.mdb
