@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Robot.Tests/Robot.cs">
+    <Files>
+      <File FileName="Robot.Tests/Robot.cs" Line="33" Column="33" />
+      <File FileName="Robot/Robot.cs" Line="4" Column="4" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True">
+          <Node name="Robot.Tests" expanded="True">
+            <Node name="Robot" expanded="True">
+              <Node name="Tests" expanded="True">
+                <Node name="RobotTest" expanded="True">
+                  <Node name="CanTurnLeft" expanded="True" />
+                  <Node name="CanTurnRight" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
